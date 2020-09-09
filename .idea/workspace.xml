@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d0b1177-fcb4-40e2-9ebf-1732dcdfe64e" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MapReduce_Assignment1$AssigOne12.ic" NAME="AssigOne12 Coverage Results" MODIFIED="1571323413199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g7IpuHIGXZCmn8yvFw4qKAOQGP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\projects\项目\MapReduce-Analysis\file\input" />
+      <recent name="C:\Users\Endstart\Desktop\项目\MapReduce-Assignment1\src\file\movie\input" />
+      <recent name="C:\Users\Endstart\Desktop\项目\MapReduce-Assignment1\src\file\sort\input" />
+      <recent name="C:\Users\Endstart\Desktop\项目\MapReduce-Assignment1\src\file\temperature" />
+      <recent name="C:\Users\Endstart\Desktop\项目\MapReduce-Assignment1\src\file\movie" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\项目\MapReduce-Analysis" />
+      <recent name="F:\projects\项目\MapReduce-Assignment1\src\sample" />
+      <recent name="F:\projects\项目\MapReduce-Assignment1\lib" />
+      <recent name="F:\projects\项目\MapReduce-Assignment1\src\file\twitter" />
+      <recent name="C:\Users\Endstart\Desktop\项目\MapReduce-Assignment1\src\file\movie" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ApplicationMain">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="ApplicationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ApplicationMain" />
+      <module name="MapReduce-Assignment1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssigOne12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssigOne12" />
+      <module name="MapReduce-Assignment1" />
+      <option name="PROGRAM_PARAMETERS" value=".\src\file\movie\input .\src\file\movie\output" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Temperature" />
+      <module name="MapReduce-Assignment1" />
+      <option name="PROGRAM_PARAMETERS" value=".\src\file\temperature\input.txt .\src\file\temperature\output" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwitterAnalysis" />
+      <module name="MapReduce-Assignment1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterClean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwitterClean" />
+      <module name="MapReduce-Assignment1" />
+      <option name="PROGRAM_PARAMETERS" value="F:\projects\项目\MapReduce-Analysis\file\input\data.json F:\projects\项目\MapReduce-Analysis\file\output\" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TwitterAnalysis" />
+      <item itemvalue="Application.Temperature" />
+      <item itemvalue="Application.AssigOne12" />
+      <item itemvalue="Application.TwitterClean" />
+      <item itemvalue="Application.ApplicationMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationMain" />
+        <item itemvalue="Application.TwitterClean" />
+        <item itemvalue="Application.Temperature" />
+        <item itemvalue="Application.AssigOne12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d0b1177-fcb4-40e2-9ebf-1732dcdfe64e" name="Default" comment="" />
+      <created>1571228279811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571228279811</updated>
+      <workItem from="1571228281285" duration="10340000" />
+      <workItem from="1571314046871" duration="5182000" />
+      <workItem from="1571537287831" duration="1144000" />
+      <workItem from="1597459392052" duration="2160000" />
+      <workItem from="1597465281271" duration="605000" />
+      <workItem from="1597487917642" duration="2476000" />
+      <workItem from="1597490446231" duration="1802000" />
+      <workItem from="1597492990386" duration="9643000" />
+      <workItem from="1597502857695" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597494621657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="219" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597494621657" />
+    <state x="478" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1597492738242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597492738242" />
+    <state x="375" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597493887188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="375" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597493887188" />
+    <state x="346" y="158" width="782" height="666" key="#xdebugger.evaluate" timestamp="1597500351399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="346" y="158" width="782" height="666" key="#xdebugger.evaluate/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597500351399" />
+    <state width="677" height="546" key="DebuggerActiveHint" timestamp="1597501892293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="677" height="546" key="DebuggerActiveHint/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597501892293" />
+    <state width="1483" height="328" key="GridCell.Tab.0.bottom" timestamp="1597502977821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="328" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597502977821" />
+    <state width="1483" height="328" key="GridCell.Tab.0.center" timestamp="1597502977821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="328" key="GridCell.Tab.0.center/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597502977821" />
+    <state width="1483" height="328" key="GridCell.Tab.0.left" timestamp="1597502977821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="328" key="GridCell.Tab.0.left/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597502977821" />
+    <state width="1483" height="328" key="GridCell.Tab.0.right" timestamp="1597502977821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="328" key="GridCell.Tab.0.right/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597502977821" />
+    <state x="212" y="76" width="1111" height="748" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597494651200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="212" y="76" width="1111" height="748" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597494651200" />
+    <state x="433" y="121" key="extract.method.dialog" timestamp="1597497816484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="121" key="extract.method.dialog/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597497816484" />
+    <state x="398" y="87" width="740" height="650" key="find.popup" timestamp="1597463601034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="87" width="740" height="650" key="find.popup/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597463601034" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1597495659189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824/1920.-1070.2560.1400@0.0.1536.824" timestamp="1597495659189" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/Hadoop-Core.jar!/org/apache/hadoop/fs/FileUtil.class</url>
+          <line>491</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MapReduce-Assignment1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
